@@ -34,12 +34,12 @@ The first tool is an __FTP Client__. You may be doing most of your work from WP 
 you just want to push an image file or something to the webserver fast. An FTP Client allows you
 to connect to the wordpress server manually for when you really need it, although if your theme is 
 good enough then you shouldn't have to do this. Always make sure to configure your connection to use
-sftp instead of ftp, so you can be __s__ecure.
+sftp instead of ftp, so you can be secure.
 
 Recommended clients:
 * [filezilla](https://filezilla-project.org/): The classic. It can do anything and run anywhere. Watch out for annoying freeware though, I have been burned in the past when I didn't read the installation screens and accidentally installed annoying crap.
 * [winscp](https://winscp.net/eng/download.php): It's ugly, but it is crazy fast. It is incredibly reliable but it is windows-only. I recommend it over filezilla
-* [cyberduck](https://cyberduck.io): OSX only and very reliable. I recommend it over filezilla for OSX.
+* [cyberduck](https://cyberduck.io): very reliable and multiplatform. I recommend it over filezilla for OSX.
 
 The second tool that will be extremely helpful is a __Text Editor__. The literal swiss army knife of 
 programming tools, you may need to use one to fix something that is randomly broken, or modify something
